@@ -1,6 +1,6 @@
 # StateMachine
 
-The included file is a c program that simulates a fsm starting with an inital set of states.
+The included file is a c program that simulates a fsm starting with an initial set of states.
 
 
 
